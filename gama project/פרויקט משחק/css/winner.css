@@ -1,0 +1,35 @@
+﻿body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+  
+}
+#win{
+    margin-left:350px;
+    margin-top:-86px;
+    height:100px;
+}
+img{
+    height:555px;
+    margin-bottom:0px;
+}
+h1 {
+    margin-left:200px;    
+    font-family:Aharoni;
+    font-size: 100px;
+    color: deeppink;
+    margin-top:50px;
+}
+* a {
+    color: deeppink;
+    text-decoration: none;
+    font-family: Calibri;
+    font-size: 40px;
+  /*  margin-top:100px;*/
+    margin-left:224px;
+}
+
+
+
+
+
